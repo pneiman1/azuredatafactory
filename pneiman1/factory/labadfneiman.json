@@ -1,0 +1,9 @@
+{
+	"name": "labadfneiman",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "03394436-9135-46ca-8d8b-ec7c2bca0d01",
+		"tenantId": "0f42e3ad-84e4-4502-afb8-0c7b25e608f2"
+	}
+}
